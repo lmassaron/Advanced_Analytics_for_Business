@@ -6,41 +6,44 @@ MEAP began August 2023  Publication in Spring 2024 (estimated)<BR>
 ISBN 9781633438545  375 pages (estimated)  printed in black & white <BR>
 <table style="border-collapse: collapse; width: 100%;">
   <tr>
-    <td style="border: none; padding: 0;">
-      <A href="http://mng.bz/KeP0">
-        <IMG src="./cover.jpg" alt="Cover Image" width="75%" />
-      </A>
-    </td>
     <td style="border: none; padding: 0; vertical-align: top;">
+      <P>
+      <B>Notebooks:
+      <P><BR>
       <a href="https://colab.research.google.com/github/lmassaron/ml_4_tabular_code/blob/main/chapter_02.ipynb">
         <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab Badge" height="20" />
         Chapter 2
       </a>
-      <br />
+      <BR><BR>
       <a href="https://colab.research.google.com/github/lmassaron/ml_4_tabular_code/blob/main/chapter_04.ipynb">
         <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab Badge" height="20" />
         Chapter 4
       </a>
-      <br />
+      <BR><BR>
       <a href="https://colab.research.google.com/github/lmassaron/ml_4_tabular_code/blob/main/chapter_05.ipynb">
         <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab Badge" height="20" />
         Chapter 5
       </a>
-      <br />
+      <BR><BR>
       <a href="https://colab.research.google.com/github/lmassaron/ml_4_tabular_code/blob/main/chapter_06.ipynb">
         <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab Badge" height="20" />
         Chapter 6
       </a>
-      <br />
+      <BR><BR>
       <a href="https://colab.research.google.com/github/lmassaron/ml_4_tabular_code/blob/main/chapter_07.ipynb">
         <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab Badge" height="20" />
         Chapter 7
       </a>
-      <br />
+      <BR><BR>
       <a href="https://colab.research.google.com/github/lmassaron/ml_4_tabular_code/blob/main/appendix_b.ipynb">
         <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab Badge" height="20" />
         Appendix B
       </a>
+    </td>
+    <td style="border: none; padding: 0;">
+      <A href="http://mng.bz/KeP0">
+        <IMG src="./cover.jpg" alt="Cover Image" width="75%" />
+      </A>
     </td>
   </tr>
 </table>
