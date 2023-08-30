@@ -4,7 +4,7 @@
 Mark Ryan and Luca Massaron<BR>
 MEAP began August 2023  Publication in Spring 2024 (estimated)<BR>
 ISBN 9781633438545  375 pages (estimated)  printed in black & white <BR>
-<table style="border-collapse: collapse; width: 100%;">
+<table>
   <tr>
     <td style="border: none; padding: 0; vertical-align: top;">
       <P>
