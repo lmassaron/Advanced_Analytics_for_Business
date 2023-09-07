@@ -1,0 +1,24 @@
+general: # control overall operation
+   load_from_scratch: True
+   save_raw_dataframe: False
+   save_transformed_dataframe: True
+   remove_bad_values: True
+   treat_rooms_as_numeric: True
+   size_bin_count: 10
+category_defaults: # default values to replace missing values
+   categorical: missing
+   continuous: 0.0
+   text: missing
+   date: 2019-01-01
+   excluded: missing
+misc_col_dict: # default values to replace missing values for general columns 
+   Bathrooms: median
+   Car Parks: 0
+   Furnishing: unknown_furnishing
+   Property Type: unknown_property
+   Location: unknown_location
+file_names: # input and output file names
+   input_csv: data_kaggle.csv
+   pickled_input_dataframe: kl_real_estate_input.pkl
+   pickled_output_dataframe: kl_real_estate_output.pkl
+   

@@ -1,0 +1,73 @@
+general: # control overall operation
+   load_from_scratch: True
+   save_raw_dataframe: False
+   save_transformed_dataframe: True
+   remove_bad_values: True
+columns: # categorize columns
+   categorical: # columns with a finite set of values
+      - 'neighbourhood_group'
+      - 'neighbourhood'
+      - 'room_type'
+   continuous: # columns with values that can take an unlimited set of values
+      - 'minimum_nights'
+      - 'number_of_reviews'
+      - 'reviews_per_month'
+      - 'calculated_host_listings_count'
+      - 'latitude'
+      - 'longitude'
+   date: # date columns
+      - 'last_review'
+   text: # text columns
+      - 'name'
+      - 'host_name'
+   excluded: # columns that are not used as input features for training
+      - 'price'
+      - 'id'
+category_defaults: # default values to replace missing values
+   categorical: missing
+   continuous: 0.0
+   text: missing
+   date: 2019-01-01
+   excluded: missing
+category_invalid_value_replacements: # default values to replace invalid values
+   categorical: bad_categorical
+   continuous: bad_continuous
+   text: bad_text
+   date: bad_date
+   exclude: bad_excluded
+latitude_replacement: bad_latitude
+longitude_replacement: bad_longitude
+non_negative_continuous: # continuous columns where only non-negative values are valid
+    - 'minimum_nights'
+    - 'number_of_reviews'
+    - 'reviews_per_month'
+    - 'calculated_host_listings_count'
+valid_values: # valid values for columns that have a defined set of valid values
+   neighbourhood_group:
+      - 'Bronx'
+      - 'Brooklyn'
+      - 'Queens'
+      - 'Manhattan'
+      - 'Staten Island'
+   room_type:
+      - 'Private room'
+      - 'Shared room'
+      - 'Entire home/apt'
+bounding_box: # latitude and longitude extremes for a box that surrounds New York City
+    max_long: -73.70018092
+    max_lat: 40.91617849
+    min_long: -74.25909008
+    min_lat: 40.47739894
+newark_bounding_box: # latitude and longitude extremes for a box that surrounds Newark New Jersey
+    max_long: -74.11278706
+    max_lat: 40.67325015
+    min_long: -74.25132408
+    min_lat: 40.78813864
+geo_columns: # geospatial columns
+    - 'latitude'
+    - 'longitude'
+file_names: # input and output file names
+   input_csv: AB_NYC_2019.csv
+   pickled_input_dataframe: AB_NYC_2019_input_sep3_2022.pkl
+   pickled_output_dataframe: AB_NYC_2019_output_sep3_2022.pkl
+   

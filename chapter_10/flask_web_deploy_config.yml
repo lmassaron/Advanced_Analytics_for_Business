@@ -1,0 +1,24 @@
+general:
+   debug_on: False
+   logging_level: "WARNING" # switch to control logging - WARNING for full logging; ERROR to minimize logging
+   BATCH_SIZE: 1000
+scoring_columns_cat: # categorical columns
+      - 'location'
+      - 'size_type'
+      - 'property_type'
+      - 'furnishing'
+scoring_columns_cont:
+      - 'rooms'
+      - 'bathrooms'
+      - 'car_parks'
+      - 'size'
+# parameters for Vertex AI endpoint
+# note these need to be updated with the values for your endpoint
+# you can get these values by clicking on the Sample Request link
+# in the Deploy & Test tab for your model version in the Vertex AI Model Registry
+endpoint:
+   project: "1028332300603"
+   endpoint_id: "1968684365625950208"
+   location: "us-central1"
+file_names:
+   saved_model: 'kl_real_estate_keras_preprocessing_model'

@@ -1,0 +1,61 @@
+general: # overall parameters
+   verboseout: True
+   includetext: True # switch to determine whether text fields are included in model
+   presaved: False # switch to determine whether to train model or load saved model
+   savemodel: False # switch to determine whether to save model
+   picklemodel: True # switch for code to allow pickling of Keras model
+   save_model_plot: False
+   tensorboard_callback: False
+   hctextmax: 7000
+   maxwords: 6000
+   textmax: 50
+   pickled_data_file: '20142018_0930.pkl'
+   pickled_dataframe: 'kl_real_estate_output.pkl'
+   modifier: 'jan9_2023'
+   targetthresh: 6.0 # use as boundary between delay and no delay
+   targetcontinuous: False # switch to determine whether target is continuous
+   target_col: 'Price'
+   emptythresh: 6000
+   zero_weight: 1.0 # class_weight = {0 : zero_weight, 1: one_weight}
+   one_weight: 45.878 # default one_weight
+   one_weight_offset: 0 # additional offset to one_weight
+   patience_threshold: 5
+   early_stop: True
+file_names:
+   pickled_data_file: '20142018_0930.pkl'
+   pickled_dataframe: 'kl_real_estate_output.pkl'
+   saved_model: 'kl_real_estate_keras_preprocessing_model'
+test_parms: # parameters to control training
+   testproportion: 0.2 # proportion of data reserved for test set
+   trainproportion: 0.8 # proportion of non-test data dedicated to training (vs. validation)
+   current_experiment: 5
+   repeatable_run: False # switch to control whether runs are repeated identically
+   get_test_train_acc: True # switch to control whether block to get test and train accuracy is after training
+categorical: # categorical columns
+      - 'Location'
+#      - 'Rooms'
+      - 'Property Type'
+      - 'Furnishing'
+#      - 'Size_type'
+      - 'Size_type_bin'
+continuous: # continuous columns
+      - 'Bathrooms'
+      - 'Car Parks'
+      - 'Rooms'
+      - 'Size'
+text: []
+excluded: # columns that are not used as input features for training
+      - 'Price'
+      - 'Car Parks'
+      - 'Rooms'
+metrics:
+    - 'accuracy'
+hyperparameters: # deep learning model hyperparameters
+   optimizer: adam
+   learning_rate: 0.001
+   dropout_rate: 0.0003 #0.003
+   l2_lambda: 0.0003 #7.5
+   loss_func: "binary_crossentropy"
+   output_activation: "hard_sigmoid" # set to "linear" if target is continuous
+   batch_size: 1000
+   epochs: 50
