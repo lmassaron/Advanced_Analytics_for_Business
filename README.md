@@ -8,34 +8,34 @@ ISBN 9781633438545  375 pages (estimated)  printed in black & white <BR>
   <tr>
     <td style="border: none; padding: 0; vertical-align: top;">
       <P>
-      <B>Notebooks:
+      <B>Running code directly on Google Colab:
       <P><BR>
-      <a href="https://colab.research.google.com/github/lmassaron/ml_4_tabular_code/blob/main/chapter_02.ipynb">
+      <a href="https://colab.research.google.com/github/lmassaron/ml_4_tabular_code/blob/main/chapter_02/chapter_02.ipynb">
         <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab Badge" height="20" />
         Chapter 2
       </a>
       <BR><BR>
-      <a href="https://colab.research.google.com/github/lmassaron/ml_4_tabular_code/blob/main/chapter_04.ipynb">
+      <a href="https://colab.research.google.com/github/lmassaron/ml_4_tabular_code/blob/main/chapter_04/chapter_04.ipynb">
         <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab Badge" height="20" />
         Chapter 4
       </a>
       <BR><BR>
-      <a href="https://colab.research.google.com/github/lmassaron/ml_4_tabular_code/blob/main/chapter_05.ipynb">
+      <a href="https://colab.research.google.com/github/lmassaron/ml_4_tabular_code/blob/main/chapter_05/chapter_05.ipynb">
         <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab Badge" height="20" />
         Chapter 5
       </a>
       <BR><BR>
-      <a href="https://colab.research.google.com/github/lmassaron/ml_4_tabular_code/blob/main/chapter_06.ipynb">
+      <a href="https://colab.research.google.com/github/lmassaron/ml_4_tabular_code/blob/main/chapter_06/chapter_06.ipynb">
         <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab Badge" height="20" />
         Chapter 6
       </a>
       <BR><BR>
-      <a href="https://colab.research.google.com/github/lmassaron/ml_4_tabular_code/blob/main/chapter_07.ipynb">
+      <a href="https://colab.research.google.com/github/lmassaron/ml_4_tabular_code/blob/main/chapter_07/chapter_07.ipynb">
         <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab Badge" height="20" />
         Chapter 7
       </a>
       <BR><BR>
-      <a href="https://colab.research.google.com/github/lmassaron/ml_4_tabular_code/blob/main/appendix_b.ipynb">
+      <a href="https://colab.research.google.com/github/lmassaron/ml_4_tabular_code/blob/main/appendix_b/appendix_b.ipynb">
         <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab Badge" height="20" />
         Appendix B
       </a>
