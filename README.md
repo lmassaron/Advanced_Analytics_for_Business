@@ -50,7 +50,7 @@ ISBN 9781633438545  375 pages (estimated)  printed in black & white <BR>
 http://mng.bz/jPlP
 <HR>
 Business runs on tabular data in databases, spreadsheets, and logs: crunch that data using deep learning, gradient boosting, and other machine learning techniques.
-<HR><BR>
+<HR>
 
 Every organization in the world stores data in tables. Machine Learning on Tabular Data reveals practical techniques for applying machine learning techniques like deep learning and gradient boosting to your company’s rows and columns.
 
