@@ -1,7 +1,7 @@
 # Machine Learning on Tabular Data <BR> Using gradient boosting and deep learning
 <BR>
 
-[Mark Ryan](https://www.linkedin.com/in/mark-ryan-31826743/) and Luca Massaron<BR>
+[Mark Ryan](https://www.linkedin.com/in/mark-ryan-31826743/) and [Luca Massaron](https://www.linkedin.com/in/lmassaron/)<BR>
 MEAP began August 2023  Publication in Spring 2024 (estimated)<BR>
 ISBN 9781633438545  375 pages (estimated)  printed in black & white <BR>
 <table>
