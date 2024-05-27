@@ -8,7 +8,7 @@ ISBN 9781633438545  375 pages (estimated)  printed in black & white <BR>
 
 <table>
   <tr>
-    <td style="border: none; padding: 0; vertical-align: top; width: 50%;">
+    <td style="border: none; padding: 0; vertical-align: top; width: 75%;">
       <p><b>Running code directly on Google Colab:</b></p>
       <p><br></p>
       <a href="https://colab.research.google.com/github/lmassaron/ml_4_tabular_code/blob/main/chapter_02/chapter_02.ipynb">
@@ -41,9 +41,9 @@ ISBN 9781633438545  375 pages (estimated)  printed in black & white <BR>
         Appendix B
       </a>
     </td>
-    <td style="border: none; padding: 0; text-align: left; width: 50%;">
+    <td style="border: none; padding: 0; text-align: left; width: 25%;">
       <a href="http://mng.bz/jPlP">
-        <img src="./cover2.jpg" alt="Cover Image" width="100%" />
+        <img src="./cover2.jpg" alt="Cover Image" width="50%" />
       </a>
     </td>
   </tr>
