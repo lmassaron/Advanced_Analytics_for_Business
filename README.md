@@ -43,14 +43,15 @@ ISBN 9781633438545  375 pages (estimated)  printed in black & white <BR>
     </td>
     <td style="border: none; padding: 10px; text-align: center; width: 50%;">
       <a href="http://mng.bz/jPlP">
-        <img src="./cover2.jpg" alt="Cover Image" style="width: 60%;" />
+        <img src="./cover2.jpg" alt="Cover Image" style="width: 75%;" />
       </a>
     </td>
   </tr>
 </table>
 
 
-http://mng.bz/jPlP
+The book is available here: http://mng.bz/jPlP
+
 <HR>
 <B>Business runs on tabular data in databases, spreadsheets, and logs. Crunch that data using deep learning, gradient boosting, and other machine learning techniques.</B>
 <HR>
