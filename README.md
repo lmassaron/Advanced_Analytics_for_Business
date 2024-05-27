@@ -7,7 +7,7 @@ MEAP began August 2023  Publication in Summer 2024 (estimated)<BR>
 ISBN 9781633438545  375 pages (estimated)  printed in black & white <BR>
 <table>
   <tr>
-    <td style="border: none; padding: 0; vertical-align: top;">
+    <td style="border: none; padding: 0; vertical-align: top; width: 400px;">
       <P>
       <B>Running code directly on Google Colab:
       <P><BR>
