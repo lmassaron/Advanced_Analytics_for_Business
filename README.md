@@ -43,7 +43,7 @@ ISBN 9781633438545  375 pages (estimated)  printed in black & white <BR>
     </td>
     <td style="border: none; padding: 10px; text-align: center; width: 50%;">
       <a href="http://mng.bz/jPlP">
-        <img src="./cover2.jpg" alt="Cover Image" style="width: 40%;" />
+        <img src="./cover2.jpg" alt="Cover Image" style="width: 60%;" />
       </a>
     </td>
   </tr>
