@@ -6,9 +6,9 @@
 MEAP began August 2023  Publication in Summer 2024 (estimated)<BR>
 ISBN 9781633438545  375 pages (estimated)  printed in black & white <BR>
 
-<table>
+<table style="width: 100%; table-layout: fixed;">
   <tr>
-    <td style="border: none; padding: 0; vertical-align: top; width: 75%;">
+    <td style="border: none; padding: 10px; vertical-align: top; width: 50%;">
       <p><b>Running code directly on Google Colab:</b></p>
       <p><br></p>
       <a href="https://colab.research.google.com/github/lmassaron/ml_4_tabular_code/blob/main/chapter_02/chapter_02.ipynb">
@@ -41,9 +41,9 @@ ISBN 9781633438545  375 pages (estimated)  printed in black & white <BR>
         Appendix B
       </a>
     </td>
-    <td style="border: none; padding: 0; text-align: right; width: 50%  max-width: 50%;">
+    <td style="border: none; padding: 10px; text-align: center; width: 50%;">
       <a href="http://mng.bz/jPlP">
-        <img src="./cover2.jpg" alt="Cover Image" style="width: 75%;"/>
+        <img src="./cover2.jpg" alt="Cover Image" style="width: 75%; max-width: 100%;" />
       </a>
     </td>
   </tr>
