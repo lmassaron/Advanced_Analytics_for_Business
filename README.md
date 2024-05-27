@@ -6,48 +6,20 @@
 MEAP began August 2023  Publication in Summer 2024 (estimated)<BR>
 ISBN 9781633438545  375 pages (estimated)  printed in black & white <BR>
 
-<table style="width: 100%; table-layout: fixed;">
-  <tr>
-    <td style="border: none; padding: 10px; vertical-align: top; width: 50%;">
-      <p><b>Running code directly on Google Colab:</b></p>
-      <p><br></p>
-      <a href="https://colab.research.google.com/github/lmassaron/ml_4_tabular_code/blob/main/chapter_02/chapter_02.ipynb">
-        <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab Badge" height="20" />
-        Chapter 2
-      </a>
-      <br><br>
-      <a href="https://colab.research.google.com/github/lmassaron/ml_4_tabular_code/blob/main/chapter_04/chapter_04.ipynb">
-        <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab Badge" height="20" />
-        Chapter 4
-      </a>
-      <br><br>
-      <a href="https://colab.research.google.com/github/lmassaron/ml_4_tabular_code/blob/main/chapter_05/chapter_05.ipynb">
-        <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab Badge" height="20" />
-        Chapter 5
-      </a>
-      <br><br>
-      <a href="https://colab.research.google.com/github/lmassaron/ml_4_tabular_code/blob/main/chapter_06/chapter_06.ipynb">
-        <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab Badge" height="20" />
-        Chapter 6
-      </a>
-      <br><br>
-      <a href="https://colab.research.google.com/github/lmassaron/ml_4_tabular_code/blob/main/chapter_07/chapter_07.ipynb">
-        <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab Badge" height="20" />
-        Chapter 7
-      </a>
-      <br><br>
-      <a href="https://colab.research.google.com/github/lmassaron/ml_4_tabular_code/blob/main/appendix_b/appendix_b.ipynb">
-        <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab Badge" height="20" />
-        Appendix B
-      </a>
-    </td>
-    <td style="border: none; padding: 10px; text-align: center; width: 50%;">
-      <a href="http://mng.bz/jPlP">
-        <img src="./cover2.jpg" alt="Cover Image" style="width: 75%; max-width: 100%;" />
-      </a>
-    </td>
-  </tr>
-</table>
+[![Colab Badge](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lmassaron/ml_4_tabular_code/blob/main/chapter_02/chapter_02.ipynb) [Chapter 2](https://colab.research.google.com/github/lmassaron/ml_4_tabular_code/blob/main/chapter_02/chapter_02.ipynb)
+
+[![Colab Badge](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lmassaron/ml_4_tabular_code/blob/main/chapter_04/chapter_04.ipynb) [Chapter 4](https://colab.research.google.com/github/lmassaron/ml_4_tabular_code/blob/main/chapter_04/chapter_04.ipynb)
+
+[![Colab Badge](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lmassaron/ml_4_tabular_code/blob/main/chapter_05/chapter_05.ipynb) [Chapter 5](https://colab.research.google.com/github/lmassaron/ml_4_tabular_code/blob/main/chapter_05/chapter_05.ipynb)
+
+[![Colab Badge](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lmassaron/ml_4_tabular_code/blob/main/chapter_06/chapter_06.ipynb) [Chapter 6](https://colab.research.google.com/github/lmassaron/ml_4_tabular_code/blob/main/chapter_06/chapter_06.ipynb)
+
+[![Colab Badge](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lmassaron/ml_4_tabular_code/blob/main/chapter_07/chapter_07.ipynb) [Chapter 7](https://colab.research.google.com/github/lmassaron/ml_4_tabular_code/blob/main/chapter_07/chapter_07.ipynb)
+
+[![Colab Badge](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lmassaron/ml_4_tabular_code/blob/main/appendix_b/appendix_b.ipynb) [Appendix B](https://colab.research.google.com/github/lmassaron/ml_4_tabular_code/blob/main/appendix_b/appendix_b.ipynb)
+
+![Cover Image](./cover2.jpg)
+[Link to more details](http://mng.bz/jPlP)
 
 http://mng.bz/jPlP
 <HR>
