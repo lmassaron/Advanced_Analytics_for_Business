@@ -18,8 +18,9 @@ ISBN 9781633438545  375 pages (estimated)  printed in black & white <BR>
 
 [![Colab Badge](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lmassaron/ml_4_tabular_code/blob/main/appendix_b/appendix_b.ipynb) [Appendix B](https://colab.research.google.com/github/lmassaron/ml_4_tabular_code/blob/main/appendix_b/appendix_b.ipynb)
 
-![Cover Image](./cover2.jpg)
-[Link to more details](http://mng.bz/jPlP)
+<a href="http://mng.bz/jPlP">
+  <img src="./cover2.jpg" alt="Cover Image" style="width: 40%;" />
+</a>
 
 http://mng.bz/jPlP
 <HR>
