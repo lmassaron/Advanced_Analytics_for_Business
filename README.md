@@ -5,49 +5,50 @@
 [Mark Ryan](https://www.linkedin.com/in/mark-ryan-31826743/) and [Luca Massaron](https://www.linkedin.com/in/lmassaron/)<BR>
 MEAP began August 2023  Publication in Summer 2024 (estimated)<BR>
 ISBN 9781633438545  375 pages (estimated)  printed in black & white <BR>
+
 <table>
   <tr>
-    <td style="border: none; padding: 0; vertical-align: top; width: 400px;">
-      <P>
-      <B>Running code directly on Google Colab:
-      <P><BR>
+    <td style="border: none; padding: 0; vertical-align: top; width: 50%;">
+      <p><b>Running code directly on Google Colab:</b></p>
+      <p><br></p>
       <a href="https://colab.research.google.com/github/lmassaron/ml_4_tabular_code/blob/main/chapter_02/chapter_02.ipynb">
         <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab Badge" height="20" />
         Chapter 2
       </a>
-      <BR><BR>
+      <br><br>
       <a href="https://colab.research.google.com/github/lmassaron/ml_4_tabular_code/blob/main/chapter_04/chapter_04.ipynb">
         <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab Badge" height="20" />
         Chapter 4
       </a>
-      <BR><BR>
+      <br><br>
       <a href="https://colab.research.google.com/github/lmassaron/ml_4_tabular_code/blob/main/chapter_05/chapter_05.ipynb">
         <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab Badge" height="20" />
         Chapter 5
       </a>
-      <BR><BR>
+      <br><br>
       <a href="https://colab.research.google.com/github/lmassaron/ml_4_tabular_code/blob/main/chapter_06/chapter_06.ipynb">
         <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab Badge" height="20" />
         Chapter 6
       </a>
-      <BR><BR>
+      <br><br>
       <a href="https://colab.research.google.com/github/lmassaron/ml_4_tabular_code/blob/main/chapter_07/chapter_07.ipynb">
         <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab Badge" height="20" />
         Chapter 7
       </a>
-      <BR><BR>
+      <br><br>
       <a href="https://colab.research.google.com/github/lmassaron/ml_4_tabular_code/blob/main/appendix_b/appendix_b.ipynb">
         <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab Badge" height="20" />
         Appendix B
       </a>
     </td>
-    <td style="border: none; padding: 0; text-align: left;">
-      <A href="http://mng.bz/jPlP">
-        <IMG src="./cover2.jpg" alt="Cover Image" width="50%" />
-      </A>
+    <td style="border: none; padding: 0; text-align: left; width: 50%;">
+      <a href="http://mng.bz/jPlP">
+        <img src="./cover2.jpg" alt="Cover Image" width="100%" />
+      </a>
     </td>
   </tr>
 </table>
+
 http://mng.bz/jPlP
 <HR>
 <B>Business runs on tabular data in databases, spreadsheets, and logs. Crunch that data using deep learning, gradient boosting, and other machine learning techniques.</B>
