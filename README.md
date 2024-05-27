@@ -43,7 +43,7 @@ ISBN 9781633438545  375 pages (estimated)  printed in black & white <BR>
     </td>
     <td style="border: none; padding: 0; text-align: right; width: 25%;">
       <a href="http://mng.bz/jPlP">
-        <img src="./cover2.jpg" alt="Cover Image" width="50%" height="50%"/>
+        <img src="./cover2.jpg" alt="Cover Image" style="width: 50%; max-width: 50%;"/>
       </a>
     </td>
   </tr>
@@ -66,17 +66,17 @@ Inside Machine Learning on Tabular Data you’ll learn how to:
 This book collects best practices, hard-won tips and tricks, and hands-on techniques for making sense of tabular data using advanced machine learning techniques. Inside, you’ll discover how to use XGBoost and LightGBM on tabular data, optimize deep learning libraries like TensorFlow and PyTorch for tabular data, and use cloud tools like Vertex AI to create an automated MLOps pipeline.
 <HR>
 
-**about the book**
+**About the book**
 
 Advanced Analytics for Business teaches you to train insightful machine learning models on common tabular data such as spreadsheets, databases, and logs. It covers classic machine learning techniques like gradient boosting and more contemporary deep learning approaches. You’ll find practical examples for every stage of the machine learning pipeline, such as using XGBoost and Keras to predict the prices of Airbnb listings in New York City and deploying a machine learning model on your local system with Flask. By the time you’re finished, you’ll be equipped with the skills to apply machine learning to the kinds of data you work with every day.
 <HR>
 
-**about the reader**
+**About the reader**
 
 For readers experienced with Python and the basics of machine learning.
 <HR>
 
-**about the authors**
+**About the authors**
 
 Mark Ryan is a technical writing manager at Google. He studied computer science at the University of Waterloo and at the University of Toronto. In addition to a keen interest in deep learning with tabular data, Mark is interested in applications of large language models.
 
